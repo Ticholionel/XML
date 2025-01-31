@@ -271,13 +271,4 @@
     <price>19.99</price>
     <availability>In Stock</availability>
   </product>
-  <product>
-    <id>31</id>
-    <title>Wireless Doorbell</title>
-    <description>Easy-to-install wireless doorbell with multiple chimes.</description>
-    <link>https://www.amazon.de/dp/B0DJNVQKNV/ref=sr_1_4_sspa?crid=IDH66V4ZBHGF&dib=eyJ2IjoiMSJ9.Ndc3hheLXRdTtx__zDranQKge7lWrjDgeEK_4v65MaOTXcb5vwdJB4Zoi-ggFLiA5sAl0v4igzEss3l1S_T-7HMvGzvdJBOawFqjXkev7P3947fYcjKYOP7zTDdhiJPvQAQUavbwwW7LAtnP_g4B3g1jzT9qJm_eylBwwJRbTdJfzpS0tPDXxPF4tqYzwEI305SxmOmTDaDnVW8Tmiw94Q_8tZFMXEm2JsyqLElbVsqAE9ds-9f-he2DjVLsqjZzxxF1zjfCTymz5ZwqxaDh3VDzf147jZjHANtG5Flxfg4.qTSCiObVppW_f-uy_NK_bOpv9kUIQZdxi89MjmJ4TqA&dib_tag=se&keywords=wireless+doorbell&nsdOptOutParam=true&qid=1736934691&sprefix=wireless+doorbell%2Caps%2C126&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1</link>
-    <image_link>https://m.media-amazon.com/images/I/61r0SjrkNoL._AC_SX679_.jpg</image_link>
-    <price>19.99</price>
-    <availability>In Stock</availability>
-  </product>
 </products>
