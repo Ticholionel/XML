@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <title>Air Fryer XXL</title>
+    <description><![CDATA[Digital air fryer with 8 preset programs and rapid hot air circulation.]]></description>
+    <link>https://www.amazon.de/dp/B000000001</link>
+    <image_link>https://m.media-amazon.com/images/I/A4F3A10CFD._AC_SX679_.jpg</image_link>
+    <price>129.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>2</id>
+    <title>Bread Maker</title>
+    <description><![CDATA[Automatic bread maker with gluten‑free setting and 13‑hour delay timer.]]></description>
+    <link>https://www.amazon.de/dp/B000000002</link>
+    <image_link>https://m.media-amazon.com/images/I/0ABEB9F032._AC_SX679_.jpg</image_link>
+    <price>99.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>3</id>
+    <title>Espresso Machine</title>
+    <description><![CDATA[15‑bar pump espresso machine with milk frother steam wand.]]></description>
+    <link>https://www.amazon.de/dp/B000000003</link>
+    <image_link>https://m.media-amazon.com/images/I/F80773FCF4._AC_SX679_.jpg</image_link>
+    <price>179.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>4</id>
+    <title>Countertop Toaster Oven</title>
+    <description><![CDATA[10‑liter toaster oven with convection and rotisserie function.]]></description>
+    <link>https://www.amazon.de/dp/B000000004</link>
+    <image_link>https://m.media-amazon.com/images/I/9761522800._AC_SX679_.jpg</image_link>
+    <price>89.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>5</id>
+    <title>Stand Mixer</title>
+    <description><![CDATA[Tilt‑head stand mixer with 6 speeds and stainless steel bowl.]]></description>
+    <link>https://www.amazon.de/dp/B000000005</link>
+    <image_link>https://m.media-amazon.com/images/I/EFE421CB58._AC_SX679_.jpg</image_link>
+    <price>149.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>6</id>
+    <title>High‑Speed Blender</title>
+    <description><![CDATA[1200 W blender with 6 stainless blades for smoothies and ice.]]></description>
+    <link>https://www.amazon.de/dp/B000000006</link>
+    <image_link>https://m.media-amazon.com/images/I/DAFE6F0C4C._AC_SX679_.jpg</image_link>
+    <price>79.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>7</id>
+    <title>Food Processor</title>
+    <description><![CDATA[Multi‑function 1100 W food processor with slicing and shredding discs.]]></description>
+    <link>https://www.amazon.de/dp/B000000007</link>
+    <image_link>https://m.media-amazon.com/images/I/E595E3EA41._AC_SX679_.jpg</image_link>
+    <price>119.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>8</id>
+    <title>Slow Cooker 6.5 L</title>
+    <description><![CDATA[Programmable slow cooker with digital timer and keep‑warm mode.]]></description>
+    <link>https://www.amazon.de/dp/B000000008</link>
+    <image_link>https://m.media-amazon.com/images/I/20180C7FA9._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>9</id>
+    <title>Rice Cooker & Warmer</title>
+    <description><![CDATA[5.5‑cup rice cooker with fuzzy logic and keep‑warm function.]]></description>
+    <link>https://www.amazon.de/dp/B000000009</link>
+    <image_link>https://m.media-amazon.com/images/I/15A9CACD17._AC_SX679_.jpg</image_link>
+    <price>69.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>10</id>
+    <title>Juicer Cold Press</title>
+    <description><![CDATA[Quiet cold press juicer preserving vitamins and enzymes.]]></description>
+    <link>https://www.amazon.de/dp/B000000010</link>
+    <image_link>https://m.media-amazon.com/images/I/B6CAC21F68._AC_SX679_.jpg</image_link>
+    <price>149.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>11</id>
+    <title>Waffle Maker</title>
+    <description><![CDATA[Belgian waffle maker with flip design and browning control.]]></description>
+    <link>https://www.amazon.de/dp/B000000011</link>
+    <image_link>https://m.media-amazon.com/images/I/1C6918D6A4._AC_SX679_.jpg</image_link>
+    <price>39.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>12</id>
+    <title>Ice Cream Maker</title>
+    <description><![CDATA[1.5 L frozen dessert maker with built‑in compressor.]]></description>
+    <link>https://www.amazon.de/dp/B000000012</link>
+    <image_link>https://m.media-amazon.com/images/I/AE324B80A6._AC_SX679_.jpg</image_link>
+    <price>199.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>13</id>
+    <title>Indoor Electric Grill</title>
+    <description><![CDATA[Smokeless indoor grill with digital temperature control.]]></description>
+    <link>https://www.amazon.de/dp/B000000013</link>
+    <image_link>https://m.media-amazon.com/images/I/08618B7915._AC_SX679_.jpg</image_link>
+    <price>99.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>14</id>
+    <title>Sous Vide Stick</title>
+    <description><![CDATA[Precision cooker with Wi‑Fi app control and 0.1 °C accuracy.]]></description>
+    <link>https://www.amazon.de/dp/B000000014</link>
+    <image_link>https://m.media-amazon.com/images/I/CCA4F19385._AC_SX679_.jpg</image_link>
+    <price>129.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>15</id>
+    <title>Hand Mixer</title>
+    <description><![CDATA[300 W hand mixer with turbo boost and snap‑on storage case.]]></description>
+    <link>https://www.amazon.de/dp/B000000015</link>
+    <image_link>https://m.media-amazon.com/images/I/DE1A1CA308._AC_SX679_.jpg</image_link>
+    <price>29.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>16</id>
+    <title>Milk Frother</title>
+    <description><![CDATA[Automatic hot and cold milk frother for cappuccino and latte.]]></description>
+    <link>https://www.amazon.de/dp/B000000016</link>
+    <image_link>https://m.media-amazon.com/images/I/78CDD859B8._AC_SX679_.jpg</image_link>
+    <price>49.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>17</id>
+    <title>Coffee Grinder</title>
+    <description><![CDATA[Conical burr coffee grinder with 18 grind settings.]]></description>
+    <link>https://www.amazon.de/dp/B000000017</link>
+    <image_link>https://m.media-amazon.com/images/I/58F90784DA._AC_SX679_.jpg</image_link>
+    <price>54.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>18</id>
+    <title>Popcorn Maker</title>
+    <description><![CDATA[Hot‑air popcorn popper for oil‑free crunchy snacks.]]></description>
+    <link>https://www.amazon.de/dp/B000000018</link>
+    <image_link>https://m.media-amazon.com/images/I/D1FF2274AA._AC_SX679_.jpg</image_link>
+    <price>24.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>19</id>
+    <title>Panini Press</title>
+    <description><![CDATA[2‑slice panini grill with floating hinge and non‑stick plates.]]></description>
+    <link>https://www.amazon.de/dp/B000000019</link>
+    <image_link>https://m.media-amazon.com/images/I/DC6820DA0B._AC_SX679_.jpg</image_link>
+    <price>44.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>20</id>
+    <title>Sandwich Maker 3‑in‑1</title>
+    <description><![CDATA[Interchangeable plates for grill, waffle, and sandwich.]]></description>
+    <link>https://www.amazon.de/dp/B000000020</link>
+    <image_link>https://m.media-amazon.com/images/I/5463B767A6._AC_SX679_.jpg</image_link>
+    <price>39.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>21</id>
+    <title>Deep Fryer 3 L</title>
+    <description><![CDATA[3‑liter deep fryer with odor filter and viewing window.]]></description>
+    <link>https://www.amazon.de/dp/B000000021</link>
+    <image_link>https://m.media-amazon.com/images/I/AB5B455C16._AC_SX679_.jpg</image_link>
+    <price>79.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>22</id>
+    <title>Electric Skillet</title>
+    <description><![CDATA[Ceramic‑coated electric skillet with glass lid.]]></description>
+    <link>https://www.amazon.de/dp/B000000022</link>
+    <image_link>https://m.media-amazon.com/images/I/0697E6BE5C._AC_SX679_.jpg</image_link>
+    <price>49.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>23</id>
+    <title>Induction Cooktop Double</title>
+    <description><![CDATA[Portable double induction hob with touch controls.]]></description>
+    <link>https://www.amazon.de/dp/B000000023</link>
+    <image_link>https://m.media-amazon.com/images/I/A770F6F972._AC_SX679_.jpg</image_link>
+    <price>119.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>24</id>
+    <title>Countertop Microwave 800 W</title>
+    <description><![CDATA[Compact microwave with defrost and quick‑start keys.]]></description>
+    <link>https://www.amazon.de/dp/B000000024</link>
+    <image_link>https://m.media-amazon.com/images/I/008134D458._AC_SX679_.jpg</image_link>
+    <price>89.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>25</id>
+    <title>Vacuum Sealer Machine</title>
+    <description><![CDATA[Automatic food vacuum sealer with 5 modes and cutter.]]></description>
+    <link>https://www.amazon.de/dp/B000000025</link>
+    <image_link>https://m.media-amazon.com/images/I/D27E04FEF9._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>26</id>
+    <title>Water Boiler & Warmer 4 L</title>
+    <description><![CDATA[Stainless steel hot‑water dispenser with 5 temp settings.]]></description>
+    <link>https://www.amazon.de/dp/B000000026</link>
+    <image_link>https://m.media-amazon.com/images/I/EF38002174._AC_SX679_.jpg</image_link>
+    <price>109.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>27</id>
+    <title>Electric Can Opener</title>
+    <description><![CDATA[Hands‑free electric can opener with one‑touch start.]]></description>
+    <link>https://www.amazon.de/dp/B000000027</link>
+    <image_link>https://m.media-amazon.com/images/I/6C45A37B5A._AC_SX679_.jpg</image_link>
+    <price>22.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>28</id>
+    <title>Yogurt Maker</title>
+    <description><![CDATA[8‑jar yogurt maker with adjustable timer and auto shut‑off.]]></description>
+    <link>https://www.amazon.de/dp/B000000028</link>
+    <image_link>https://m.media-amazon.com/images/I/5D58FF018A._AC_SX679_.jpg</image_link>
+    <price>39.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>29</id>
+    <title>Egg Cooker</title>
+    <description><![CDATA[Rapid egg cooker for hard‑, soft‑, and poached eggs.]]></description>
+    <link>https://www.amazon.de/dp/B000000029</link>
+    <image_link>https://m.media-amazon.com/images/I/4F015F519B._AC_SX679_.jpg</image_link>
+    <price>24.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>30</id>
+    <title>Food Dehydrator</title>
+    <description><![CDATA[5‑tray dehydrator with adjustable thermostat.]]></description>
+    <link>https://www.amazon.de/dp/B000000030</link>
+    <image_link>https://m.media-amazon.com/images/I/7B903A19F4._AC_SX679_.jpg</image_link>
+    <price>64.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>31</id>
+    <title>Countertop Ice Maker</title>
+    <description><![CDATA[Bullet‑shaped ice maker producing 9 cubes in 6 minutes.]]></description>
+    <link>https://www.amazon.de/dp/B000000031</link>
+    <image_link>https://m.media-amazon.com/images/I/CB66F72ED2._AC_SX679_.jpg</image_link>
+    <price>119.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>32</id>
+    <title>Single Hot Plate</title>
+    <description><![CDATA[1500 W single burner hot plate with cast‑iron plate.]]></description>
+    <link>https://www.amazon.de/dp/B000000032</link>
+    <image_link>https://m.media-amazon.com/images/I/2B569F31F4._AC_SX679_.jpg</image_link>
+    <price>34.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>33</id>
+    <title>Electric Meat Slicer</title>
+    <description><![CDATA[200 W deli meat slicer with adjustable thickness.]]></description>
+    <link>https://www.amazon.de/dp/B000000033</link>
+    <image_link>https://m.media-amazon.com/images/I/DED9DF4872._AC_SX679_.jpg</image_link>
+    <price>99.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>34</id>
+    <title>Citrus Juicer</title>
+    <description><![CDATA[Electric citrus press with lever arm and 2 cones.]]></description>
+    <link>https://www.amazon.de/dp/B000000034</link>
+    <image_link>https://m.media-amazon.com/images/I/0838D81EE2._AC_SX679_.jpg</image_link>
+    <price>49.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>35</id>
+    <title>Electric Crepe Maker</title>
+    <description><![CDATA[13‑inch crepe griddle with batter spreader and spatula.]]></description>
+    <link>https://www.amazon.de/dp/B000000035</link>
+    <image_link>https://m.media-amazon.com/images/I/9A57D8890E._AC_SX679_.jpg</image_link>
+    <price>45.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>36</id>
+    <title>Countertop Pizza Oven</title>
+    <description><![CDATA[Mini pizza oven reaching 400 °C in 15 minutes.]]></description>
+    <link>https://www.amazon.de/dp/B000000036</link>
+    <image_link>https://m.media-amazon.com/images/I/146F9B2FD4._AC_SX679_.jpg</image_link>
+    <price>129.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>37</id>
+    <title>Multi‑Cooker 10‑in‑1</title>
+    <description><![CDATA[7‑liter multi‑cooker with pressure and air‑fry lids.]]></description>
+    <link>https://www.amazon.de/dp/B000000037</link>
+    <image_link>https://m.media-amazon.com/images/I/215E9E8DC2._AC_SX679_.jpg</image_link>
+    <price>149.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>38</id>
+    <title>Electric Knife Sharpener</title>
+    <description><![CDATA[3‑stage knife sharpener for straight and serrated blades.]]></description>
+    <link>https://www.amazon.de/dp/B000000038</link>
+    <image_link>https://m.media-amazon.com/images/I/6100A27908._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>39</id>
+    <title>Electric Pepper Mill Set</title>
+    <description><![CDATA[Rechargeable salt & pepper grinder set with LED.]]></description>
+    <link>https://www.amazon.de/dp/B000000039</link>
+    <image_link>https://m.media-amazon.com/images/I/651B1E8923._AC_SX679_.jpg</image_link>
+    <price>39.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>40</id>
+    <title>Chocolate Fountain</title>
+    <description><![CDATA[3‑tier stainless chocolate fountain for parties.]]></description>
+    <link>https://www.amazon.de/dp/B000000040</link>
+    <image_link>https://m.media-amazon.com/images/I/009ABD6A2C._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>41</id>
+    <title>Electric Peeler</title>
+    <description><![CDATA[Automatic fruit & vegetable peeler with spare blades.]]></description>
+    <link>https://www.amazon.de/dp/B000000041</link>
+    <image_link>https://m.media-amazon.com/images/I/D0D694FF5C._AC_SX679_.jpg</image_link>
+    <price>25.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>42</id>
+    <title>Vacuum Blender</title>
+    <description><![CDATA[Vacuum high‑speed blender reducing oxidation.]]></description>
+    <link>https://www.amazon.de/dp/B000000042</link>
+    <image_link>https://m.media-amazon.com/images/I/FC0A486510._AC_SX679_.jpg</image_link>
+    <price>189.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>43</id>
+    <title>Mini Beverage Fridge</title>
+    <description><![CDATA[10‑liter countertop beverage cooler with glass door.]]></description>
+    <link>https://www.amazon.de/dp/B000000043</link>
+    <image_link>https://m.media-amazon.com/images/I/09A508E220._AC_SX679_.jpg</image_link>
+    <price>89.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>44</id>
+    <title>Electric Griddle</title>
+    <description><![CDATA[Large non‑stick electric griddle with drip tray.]]></description>
+    <link>https://www.amazon.de/dp/B000000044</link>
+    <image_link>https://m.media-amazon.com/images/I/4E04CE9BC9._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>45</id>
+    <title>Adjustable Bread Slicer</title>
+    <description><![CDATA[Foldable bread slicer guide with crumb tray.]]></description>
+    <link>https://www.amazon.de/dp/B000000045</link>
+    <image_link>https://m.media-amazon.com/images/I/2B62FEA5CA._AC_SX679_.jpg</image_link>
+    <price>18.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>46</id>
+    <title>Mini Rice Cooker 1 L</title>
+    <description><![CDATA[Personal rice cooker for 1–2 servings with keep‑warm.]]></description>
+    <link>https://www.amazon.de/dp/B000000046</link>
+    <image_link>https://m.media-amazon.com/images/I/F57734A017._AC_SX679_.jpg</image_link>
+    <price>34.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>47</id>
+    <title>Variable Temp Tea Kettle</title>
+    <description><![CDATA[1.5 L kettle with 6 temperature presets and keep‑warm.]]></description>
+    <link>https://www.amazon.de/dp/B000000047</link>
+    <image_link>https://m.media-amazon.com/images/I/41856C9555._AC_SX679_.jpg</image_link>
+    <price>59.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>48</id>
+    <title>Drip Coffee Maker 12‑Cup</title>
+    <description><![CDATA[Programmable 24‑hour timer and reusable filter basket.]]></description>
+    <link>https://www.amazon.de/dp/B000000048</link>
+    <image_link>https://m.media-amazon.com/images/I/D4E794EBEC._AC_SX679_.jpg</image_link>
+    <price>49.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>49</id>
+    <title>Portable Blender Bottle</title>
+    <description><![CDATA[USB‑C rechargeable portable blender for smoothies.]]></description>
+    <link>https://www.amazon.de/dp/B000000049</link>
+    <image_link>https://m.media-amazon.com/images/I/F11394A924._AC_SX679_.jpg</image_link>
+    <price>32.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+  <product>
+    <id>50</id>
+    <title>Pancake Maker</title>
+    <description><![CDATA[Electric pancake maker with automatic batter dispenser.]]></description>
+    <link>https://www.amazon.de/dp/B000000050</link>
+    <image_link>https://m.media-amazon.com/images/I/39017626C8._AC_SX679_.jpg</image_link>
+    <price>44.99</price>
+    <availability>In Stock</availability>
+    <category>Kitchen Appliance</category>
+  </product>
+</products>
