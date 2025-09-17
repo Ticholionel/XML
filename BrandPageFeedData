@@ -10,6 +10,7 @@
     <before_price></before_price>
     <availability>available</availability>
     <category>Kitchen Essentials</category>
+    <additional_image>https://m.media-amazon.com/images/I/71Vwk0mbU-L._AC_SX569_.jpg</additional_image>
   </product>
   <product>
     <id>2</id>
@@ -1099,5 +1100,6 @@
     <before_price></before_price>
     <availability>In Stock</availability>
     <category>Home Decor</category>
+    <additional_image>https://m.media-amazon.com/images/I/71E2NZI20yL._AC_SX569_.jpg</additional_image>
   </product>
 </products>
