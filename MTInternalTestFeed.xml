@@ -9,6 +9,7 @@
     <price>157.55</price>
     <availability>In Stock</availability>
     <category>Home Appliance</category>
+    <additional_image>https://m.media-amazon.com/images/I/716VaD1WGXL._AC_SX679_.jpg</additional_image>
   </product>
   <product>
     <id>2</id>
@@ -299,5 +300,6 @@
     <price>19.99</price>
     <availability>In Stock</availability>
     <category>Home Appliance</category>
+    <additional_image>https://m.media-amazon.com/images/I/7110sz2PXRL._AC_SX679_.jpg</additional_image>
   </product>
 </products>
