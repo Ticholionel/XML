@@ -972,4 +972,16 @@
         <category>Kitchen Essentials</category>
         <additional_image></additional_image>
     </product>
+    <product>
+        <id>98</id>
+        <title>Keramisk vase nordisk design</title>
+        <description>Moderne vase med klassisk design</description>
+        <link>https://www.amazon.de/-/en/Ceramic-SUKIYPO-Decoration-Aesthetic-Farmhouse/dp/B0DXF4HV7Y/ref=sr_1_30?crid=1GT0O16B063C2&dib=eyJ2IjoiMSJ9.uNspimcEGVCfkhE_hyTZvsFhs_8qPe3uNp-64KOTlO5XG5diJ6qC-C5-SZHnFcmUdj6T6__ymTRM5TEz2pEbcTPs7fhWUscYqepAGIf5MPrQj16rCXO-IRkWtOzS4kTUo5yZWiyvJe5cu0mC73tHQsWuX9Oj5Y0dpKeTdK8uQJl2AanW_wtUrQXBTxAsTVewLhrQs4TrjYF1WnFTNovegsSEiiQwOqLBKCb1uKvEmJeXYOPiNkyYUOmJX2FNceW36TjcCxNNtHW1T1xqFTCbbpMw7qi1T3WBEyXXnDrYiTo.V56GqdEU9L65gXF9R4M66KlnC3HM2xvKWDzK0xs3Aw0&dib_tag=se&keywords=vases&qid=1772100689&sprefix=vases%2Caps%2C148&sr=8-30&th=1</link>
+        <image_link>https://m.media-amazon.com/images/I/71mpcOjf8aL._AC_SX569_.jpg</image_link>
+        <price>149.95</price>
+        <before_price />
+        <availability>available</availability>
+        <category>Vases</category>
+        <additional_image></additional_image>
+    </product>
 </products>
